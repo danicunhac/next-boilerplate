@@ -2,28 +2,34 @@
 
 ## 🚀 Technologies
 
-- [NextJS](https://nextjs.org/)
-- [Typescript](https://www.typescriptlang.org/)
-- [Editorconfig](https://editorconfig.org/)
-- [Eslint](https://eslint.org/)
-- [Prettier](https://prettier.io/)
-- [Commitlint](https://commitlint.js.org/#/)
-- [Husky](https://typicode.github.io/husky/#/)
+- [Next.js](https://nextjs.org)
+- [TypeScript](https://www.typescriptlang.org)
+- [EditorConfig](https://editorconfig.org)
+- [ESLint](https://eslint.org)
+- [Prettier](https://prettier.io)
+- [commitlint](https://commitlint.js.org)
+- [Husky](https://typicode.github.io/husky)
 
 ## 🔥️ Starting the project
 
-Clone the project or click the `Use this template` button.
+Create a new application using `create-next-app` with the `-e | --example` flag pointing to this repository's _url_, like so:
 
 ```bash
-$ git clone https://github.com/danicunhac/next-boilerplate.git && cd next-boilerplate
+npx create-next-app@latest --example https://github.com/danicunhac/next-boilerplate
 ```
 
-After that follow the steps below.
+> **Tip:** You can find `create-next-app`'s documentation at [https://nextjs.org/docs/api-reference/create-next-app](https://nextjs.org/docs/api-reference/create-next-app).
+
+### Alternative setup
+
+You can also click on the `Use this template` button.
+
+After that, clone the repository that was created on your account and follow the steps below:
 
 ```bash
 # Installing project dependencies
-$ yarn
+yarn
 
 # Starting the project
-$ yarn dev
+yarn dev
 ```
