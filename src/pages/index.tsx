@@ -1,16 +1,20 @@
+import { Home } from '@/layout/Home';
 import Head from 'next/head';
 
-export default function Home() {
+const HomePage = () => {
   return (
     <div>
       <Head>
         <title>Next Boilerplate</title>
         <meta
           name="description"
-          content="Next App boilerplate, typescript + eslint + prettier + editorconfig"
+          content="Next App boilerplate, typescript + eslint + prettier + editorconfig + jest + styled-components"
         />
         <link rel="icon" href="/favicon.ico" />
       </Head>
+      <Home />
     </div>
   );
-}
+};
+
+export default HomePage;
