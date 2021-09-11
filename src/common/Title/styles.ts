@@ -1,9 +1,9 @@
 import styled from 'styled-components';
 
 export const Container = styled.div`
-  background-color: black;
+  background-color: #fff;
 `;
 
 export const Text = styled.h1`
-  color: magenta;
+  color: #212121;
 `;
