@@ -24,3 +24,5 @@ export const GlobalStyle = createGlobalStyle`
     border: none;
   }
 `;
+
+export const DefaultTheme = {};
