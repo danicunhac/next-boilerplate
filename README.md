@@ -1,6 +1,6 @@
 <h1 align="center">🎖Next Boilerplate🎖</h1>
   
-You can follow [this](https://www.notion.so/Arquitetura-CLPST-382603a09b23437eb344629c254e40d6) architecture for a Next.js App
+You can follow [this](https://www.notion.so/Common-Layout-Design-382603a09b23437eb344629c254e40d6) design for a Next.js App
 
 ## 🚀 Technologies
 
