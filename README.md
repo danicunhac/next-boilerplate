@@ -1,5 +1,5 @@
 <p align="center"><img width="150px" src="public/next-js-logo.svg" />
-<p align="center" style="font-size: 32px;">Boilerplate</p>
+<p align="center" style="font-size: 64px;">Boilerplate</p>
 </p>
 <hr />
 
