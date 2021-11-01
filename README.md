@@ -1,5 +1,8 @@
-<h1 align="center">🎖Next Boilerplate🎖</h1>
-  
+<p align="center"><img width="150px" src="public/next-js-logo.svg" />
+<h2 align="center" style="font-size: 32px;">Boilerplate</h2>
+</p>
+<hr />
+
 You can follow [this](https://www.notion.so/Common-Layout-Design-382603a09b23437eb344629c254e40d6) design for a Next.js App
 
 ## 🚀 Technologies
