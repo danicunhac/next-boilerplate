@@ -1,7 +1,6 @@
 <p align="center"><img width="150px" src="public/next-js-logo.svg" />
-<p align="center" style="font-size: 64px;">Boilerplate</p>
+<h1 align="center" style="font-size: 64px;">Boilerplate</h1>
 </p>
-<hr />
 
 You can follow [this](https://www.notion.so/Common-Layout-Design-382603a09b23437eb344629c254e40d6) design for a Next.js App
 
