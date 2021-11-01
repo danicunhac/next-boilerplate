@@ -2,7 +2,7 @@
 <h1 align="center" style="font-size: 64px;">Boilerplate</h1>
 </p>
 
-<p>You can follow <a href="https://www.notion.so/Common-Layout-Design-382603a09b23437eb344629c254e40d6">Common Layout Design</a> for Next.js Apps</p>
+<p align="center">You can follow <a href="https://www.notion.so/Common-Layout-Design-382603a09b23437eb344629c254e40d6">Common Layout Design</a> for Next.js Apps</p>
 
 ## 🚀 Technologies
 
