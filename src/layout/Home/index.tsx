@@ -1,5 +1,6 @@
 import { Title } from '@/common';
 import Head from 'next/head';
+import { FaGithub } from 'react-icons/fa';
 import { Wrapper } from './styles';
 
 export const Home = () => {
@@ -13,7 +14,10 @@ export const Home = () => {
         />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <Title text="Next.js Boilerplate w/ Common Layout Architecture" />
+      <Title text="Next.js Boilerplate w/ Common Layout Design" />
+      <a href="https://github.com/danicunhac/next-boilerplate">
+        <FaGithub size={32} color="#000" style={{ marginTop: 32 }} />
+      </a>
     </Wrapper>
   );
 };
